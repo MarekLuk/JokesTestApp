@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace JokesWebApp.Services;
+namespace JokesWebApp.Services.Nonsense;
 
 public class NonsenseService : INonsenseService {
 
